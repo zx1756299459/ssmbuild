@@ -24,7 +24,7 @@
 
 <h3>
   <a href="/zx/book/allBook">点击进入列表页</a>
-  <a href="/zx/book/allBook">zx</a>
+  <a href="/zx/book/allBook">zxnb</a>
 </h3>
 </body>
 </html>
